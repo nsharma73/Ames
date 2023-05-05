@@ -12,3 +12,9 @@ Data folder:
 6. data_description.txt: Overall data descriptions for Ames Housing Price features
 7. housing.csv: This is the clean data with all the features ready for model building, if you are not interested in EDA you can use this directly to train models.
 
+Code or Python Notebooks:
+1. Part 1 - EDA Ames Housing Data.ipynb: This part of EDA focused on raw data and explores the housing features such as bedrooms, gross living area, price distribution etc.
+2. Part 2 - EDA with Neighborhood Analysis.ipynb: This part of EDA looks at neighborhoods in Ames and how the prices could vary across neighborhoods.
+3. Part 3 - Tax Features.ipynb: This notebook processes the income tax data by zip codes in Iowa (IA) 
+4. Part 4 - Housing Data Preprocessing.ipynb: This the data cleaning and processing notebook, where all the dummy variables are created.
+5. Part 5 - Model Building.ipynb: This notebook used H2O libraries to explore GBM and AutoML models.
