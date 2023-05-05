@@ -1,5 +1,5 @@
 # Ames Housing Data Analysis
-This is the ML Capstone Project for NYCDSA
+This is the ML Capstone Project for NYCDSA, submitted by Tiancheng Zhang and Nimit Sharma. We would like to also thank Rob Wygant for his contribution and helping us clean/process the data. 
 
 There are the code and data files with description:
 
