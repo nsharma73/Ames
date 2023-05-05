@@ -22,4 +22,6 @@ Code or Python Notebooks:
 EDA Using Tableau
 There are two Tableau workbooks that have EDA for presentation:
 1. "Housing EDA.twb" uses housing.csv to visualize clean processes data
-2. "eda on tax - ames housing" uses the tmp4.csv file, this was used to visualize tax data by zip code
+2. "eda on tax - ames housing.twb" uses the tmp4.csv file, this was used to visualize tax data by zip code
+
+Note that EDA was done using Python Notebooks, Tableau Desktop 2022.3 was used to visualize data for presentation purpose only.
