@@ -18,3 +18,8 @@ Code or Python Notebooks:
 3. Part 3 - Tax Features.ipynb: This notebook processes the income tax data by zip codes in Iowa (IA) 
 4. Part 4 - Housing Data Preprocessing.ipynb: This the data cleaning and processing notebook, where all the dummy variables are created.
 5. Part 5 - Model Building.ipynb: This notebook used H2O libraries to explore GBM and AutoML models.
+
+EDA Using Tableau
+There are two Tableau workbooks that have EDA for presentation:
+1. "Housing EDA.twb" uses housing.csv to visualize clean processes data
+2. "eda on tax - ames housing" uses the tmp4.csv file, this was used to visualize tax data by zip code
